@@ -11,4 +11,6 @@ Fundamental experiments for reinforcement learning
 
 
 ### [RLChina 强化学习社区](http://rlchina.org/)
+### [及第(JIDI)]([http://rlchina.org/](http://www.jidiai.cn/homepage))
+
 
