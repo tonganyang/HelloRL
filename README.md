@@ -9,8 +9,8 @@ Fundamental experiments for reinforcement learning
 
 ### [CODER ONE](https://www.gocoder.one/blog)
 
-
+---
 ### [RLChina 强化学习社区](http://rlchina.org/)
-### [及第(JIDI)]([http://rlchina.org/](http://www.jidiai.cn/homepage))
+### [及第(JIDI)](http://www.jidiai.cn/homepage))
 
 
