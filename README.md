@@ -13,6 +13,6 @@ Fundamental experiments for reinforcement learning
 ### [Hands-on Reinforcement Learning](http://hrl.boyuai.com/) [[Code](https://github.com/boyu-ai/Hands-on-RL)]
 ### [RLChina](http://rlchina.org/)
 ### [JIDI](http://www.jidiai.cn/homepage)
-### [Deep RL Hub](http://www.deeprlhub.com/)
+### [DeepRL Hub](http://www.deeprlhub.com/)
 
 
