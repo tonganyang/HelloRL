@@ -1,6 +1,5 @@
 # Helloworld
-Fundamental experiments for reinforcement learning
-
+I have collected the learning materials related to reinforcement learning, which also contains some basic experiments
 
 ### [Reinforcement Learning: Theory and Python Implementation](https://github.com/ZhiqingXiao/rl-book/tree/master/zh2019) [[Code](https://github.com/ZhiqingXiao/rl-book/tree/master/en2022)]
 ### [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
