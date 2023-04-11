@@ -13,6 +13,7 @@ I collected the learning materials related to reinforcement learning, which also
 
 ---
 ### [Hands-on Reinforcement Learning](http://hrl.boyuai.com/) [[Code](https://github.com/boyu-ai/Hands-on-RL)](Pytorch)
+### [Easy-RL](https://datawhalechina.github.io/easy-rl/#/) [[Code](https://github.com/datawhalechina/easy-rl)](Pytorch)
 ### [RLChina](http://rlchina.org/)
 ### [JIDI](http://www.jidiai.cn/homepage)
 ### [DeepRL Hub](http://www.deeprlhub.com/)
